@@ -1,7 +1,9 @@
 {
     "name": "Optimize Legibility",
-    "version": "1.11",
+    "version": "1.20",
     "description": "Inserts CSS to optimize page text.",
+	"icons": { "48": "icon48.png",
+          "128": "icon128.png" },
     "permissions": [
         "tabs",
         "http://*/*",
